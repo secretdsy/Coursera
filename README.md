@@ -1,2 +1,2 @@
 # Coursera
-Computer science, Algorithms and Mathematic
+Computer science, Algorithms and Mathematics
